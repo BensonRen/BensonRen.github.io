@@ -6,7 +6,7 @@ excerpt: 'Working paper. Second author paper about using Lorentzian function as 
 date: 2021
 venue: 'Working paper'
 paperurl: ''
-citation: 'Khatib, O., Ren, S., Malof, J., & Padilla, W. J. (2021). Pending'
+citation: 'Khatib, O., Ren, S., Malof, J., & Padilla, W. J. (2021). Pending.'
 ---
 Abstract: Abstract pending
 

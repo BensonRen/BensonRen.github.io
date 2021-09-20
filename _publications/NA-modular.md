@@ -2,7 +2,7 @@
 title: "A modular view of recent deep inverse modelsfor inverse design problems" 
 collection: publications
 permalink: /publication/NA-modular
-excerpt: 'Working paper. In this work on provide a modular view for the recent deep inverse models for inverse design problem and tested their performance when we mix-n-match their individual components together. 
+excerpt: 'Working paper. In this work on provide a modular view for the recent deep inverse models for inverse design problem and tested their performance when we mix-n-match their individual components together'. 
 date: 2021.08.21
 venue: 'Working paper'
 paperurl: ''
