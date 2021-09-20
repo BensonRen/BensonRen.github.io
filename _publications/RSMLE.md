@@ -3,7 +3,7 @@ title: "Automated Extraction of Energy Systems Information from Remotely Sensed 
 collection: publications
 permalink: /publication/RSMLE
 excerpt: 'Working paper: Review paper about the progress, trend and limitations of the current deep-learning enabled Electromagenitc (EM) Metamaterial. Conduct comprehensive literature review and summerized the research leandscape for inverse problem in EM metamaterial. The only student author (without a PhD degree).'
-date: 2021.05.28
+date: 2021.01.01
 venue: 'Advanced Functional Materials'
 paperurl: ''
 citation: 'Ren, S., Hu, W., Bradbury, K., Harrison-Atlas,D., Valeri L.M., Murray, B., and Malof J., (2021). Automated Extraction of Energy Systems Information from Remotely Sensed Data: A Review and Analysis'

@@ -3,7 +3,7 @@ title: "Mapping solar photovoltaic arrays using unmanned aerial vehicles and dee
 collection: publications
 permalink: /publication/Catalyst
 excerpt: 'Working paper for mapping the solar panels using UAV imagery. We flew a DJI mini 2 taking imagery of solar panels similar to sizes of the solar home systems and estimate the cost of collecting drone imagery and compare them with the satellite imagery from private companies'
-date: 2021
+date: 2021.01.01
 venue: 'Working paper'
 paperurl: ''
 citation: 'Ren, S., Hu, W., ..., Fetter, R., Bradbury, K., Malof, J. (2021). Mapping solar photovoltaic arrays using unmanned aerial vehicles and deep learning'
