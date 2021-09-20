@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Simiao (Ben) Ren"
   avatar           : "selfie.png"
-  bio              : "YHungry and foolish PhD student"
+  bio              : "Hungry and foolish PhD student in applied machine learning"
   location         : "Duke, Durham, NC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=n4B3bH4AAAAJ&hl=zh-CN&oi=ao"
   email            :  "simiao(dot)ren(at)duke(dot)edu"
   researchgate     :   "https://www.researchgate.net/profile/Simiao-Ren"
