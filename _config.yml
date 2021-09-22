@@ -178,6 +178,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  first_author_pubs:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -209,10 +212,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _first_author_pubs
   - scope:
       path: ""
-      type: teaching
+      type: first_author_pubs
     values:
       layout: single
       author_profile: true
