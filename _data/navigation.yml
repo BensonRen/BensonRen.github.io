@@ -3,11 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "1st (co) author pubs"
+  - title: "1st-(co)author publications"
     url: /first_author_pubs/
 
   - title: "CV"
     url: /cv/
-    
-  - title: "Researches"
-    url: /researches/
