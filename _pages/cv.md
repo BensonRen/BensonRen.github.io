@@ -11,21 +11,15 @@ redirect_from:
 
 Educations
 ======
-* B.S. in Applied Physics, The Hong Kong Polytechnic University, HKSAR, China, 2018
-* M.S. in Electrical and Computer Engineering, Duke University, NC, USA, 2020
-* Ph.D in Electrical and Computer Engineering,Duke University, NC, USA, 2023 (expected)
-
-Teaching experience
-======
-* Fall 2019/ Spring 2020: Teaching Assistant
-  * Duke University
-  * ECE555: Probability for Electrical and Computer Engineers
-  * Supervisor: Prof. Kishor S. Trivedi 
-
-* Fall 2020: Teaching Assistant
-  * Duke University
-  * ECE 681: Pattern Classification and Recognition Technology
-  * Supervisor: Prof. Stacy L. Tantum
+* B.S. in Applied Physics (First Honor)
+  * The Hong Kong Polytechnic University, HKSAR, China, 2018
+  * GPA: 4.0 / 4.0
+* M.S. in Electrical and Computer Engineering
+  * Duke University, NC, USA, 2020
+  * GPA: 3.97 / 4.0
+* Ph.D in Electrical and Computer Engineering
+  * Duke University, NC, USA, 2023 (expected)
+  * Focus on applying deep learning techniques to real-life chanllenges ranging from meta-material design to energy applications
 
 Research experience
 ======
@@ -43,7 +37,7 @@ Research experience
   * Supervisor: Prof. Jordan Malof
   * Committee members: Prof. Willie Padilla, Prof. Leslie Collins
   * Publication outcome:
-    * NeurIPS 2020: **Ren, S.**, Padilla, W., & Malof, J. (2020). Benchmarking Deep Inverse Models over time, and the Neural-Adjoint method. In H. Larochelle, M. Ranzato, R. Hadsell, M. F. Balcan, & H. Lin (Eds.), Advances in Neural Information Processing Systems (Vol. 33, pp. 38–48). Curran Associates, Inc
+    * NeurIPS 2020: **Ren, S.**, Padilla, W., & Malof, J. (2020). Benchmarking Deep Inverse Models over time, and the Neural-Adjoint method. Advances in Neural Information Processing Systems (Vol. 33, pp. 38–48). 
 
 * Spring 2020 - present: Research Assistant (PhD student)
   * Duke University, Applied Machine Learning Lab 
@@ -57,7 +51,7 @@ Research experience
     * Submitted: Deng, Y., Dong, J., **Ren, S.**, Khatib, O., Soltani, M., Tarokh, V., ... & Malof, J. (2021). Benchmarking Data-driven Surrogate Simulators for Artificial Electromagnetic Materials.
     * Working: **Ren, S.**, Mahendra, A., Deng, Y., Khatib, O., Padilla, W. J. & Malof, J. (2021). Inverse deep learning methods and benchmarks for artificial electromagnetic material design
     * Working: **Ren, S.**, Padilla, W., Malof, J., (2021). A modular view of recent deep inverse modelsfor inverse design problems.
-    * Working: Lorentzian problem: Khatib, O., **Ren, S.**, Malof, J., & Padilla, W. J. ? (Title and author list pending)
+    * Working: Lorentzian problem: Khatib, O., **Ren, S.**, Malof, J., & Padilla, W. J. (Title and author list pending)
 
 * Summer 2019 - present: Research Assistant + Energy Data Analytics Lab PhD Fellow (Summer 2021)
   * Duke University, Energy initiative: Energy Data Analytics Lab
@@ -69,6 +63,19 @@ Research experience
     * Working: **Ren, S.**, Hu, W., Bradbury, K., Harrison-Atlas,D., Valeri L.M., Murray, B., and Malof J., (2021). Automated Extraction of Energy Systems Information from Remotely Sensed Data: A Review and Analysis
 
 
+Teaching experience
+======
+* Fall 2019/ Spring 2020: Teaching Assistant
+  * Duke University
+  * ECE555: Probability for Electrical and Computer Engineers
+  * Supervisor: Prof. Kishor S. Trivedi 
+
+* Fall 2020: Teaching Assistant
+  * Duke University
+  * ECE 681: Pattern Classification and Recognition Technology
+  * Supervisor: Prof. Stacy L. Tantum
+
+
 Skills
 ======
 * Bibliography management tools
@@ -78,11 +85,10 @@ Skills
   * Pytorch
   * Tensorflow
   * Keras
-*  Programming languages
+* Programming languages
   * Python
   * MATLAB
-  * C
-  * C++
+  * C/C++
   * Java
 * Language
   * English
@@ -95,10 +101,25 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Scholarships
+======
+* Outstanding Master Student Award, Duke ECE					(2 out of 130) 			2019/20
+* Hong Kong Government PhD. Fellowship Scheme (Declined)	($38,000/y * 4y)			2018/19
+* Hong Kong Government Outstanding Scholarship 				($12,000/y * 2y) 		2017/18, 2016/17
+* The Hong Kong, China-Asia-Pacific Economic Cooperation Scholarship 	(<1%)		2017/18, 2016/17
+* Prof. Chau Wai-yin Memorial Scholarship 						(1 out of 200	)			2016/17
+* Global Student Leaders, 2nd Tier Award, PolyU 				(5 out of 5000)			2016/17
+* Hong Kong Government Scholarship—Reaching Out Award		(<5%)					2015/16
+
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Technology 4 Development, Cambodia, Summer 2017
+  * Joined the student-initiate project and collaborated with local NGO “Young People Do”
+  * Installed Solar Panels and LEDs, fans for primary school in rural Cambodia
+* President of Chinese Mainland Students’ Association, HK PolyU, 2015-2016
+  * Lead a team of 14 cabinet members
+  * Organized and executed over 25 events year-wide for over 1,200 student members
   
 
 Hobbies

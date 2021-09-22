@@ -2,7 +2,7 @@
 title: "Automated Extraction of Energy Systems Information from Remotely Sensed Data: A Review and Analysis" 
 collection: publications
 permalink: /publication/RSMLE
-excerpt: 'Working paper: Review paper about the progress, trend and limitations of the current fusion of machine learning, remote sensing and energy applications.
+excerpt: 'Working paper: Review paper about the progress, trend and limitations of the current fusion of machine learning, remote sensing and energy applications.'
 date: 2021.12.30
 venue: 'Advanced Functional Materials'
 paperurl: ''
