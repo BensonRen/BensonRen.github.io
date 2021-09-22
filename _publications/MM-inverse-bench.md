@@ -3,7 +3,7 @@ title: "Inverse deep learning methods and benchmarks for artificial electromagne
 collection: publications
 permalink: /publication/MM-inverse-bench
 excerpt: 'Working paper. First author paper focusing on benchmarking the various deep learning models in specifically the realm of meta-material design.'
-date: 2021.01.01
+date: 2021.12.30
 venue: 'Working paper'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202101748'
 citation: 'Ren, S., Mahendra, A., Deng, Y., Khatib, O., Padilla, W. J. & Malof, J. (2021). Inverse deep learning methods and benchmarks for artificial electromagnetic material design'

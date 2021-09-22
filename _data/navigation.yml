@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "1st (co) author pubs"
+    url: /first_author_pubs/
+
   - title: "CV"
     url: /cv/
     
