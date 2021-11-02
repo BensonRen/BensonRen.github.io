@@ -2,9 +2,9 @@
 title: "Benchmarking Data-driven Surrogate Simulators for Artificial Electromagnetic Materials" 
 collection: publications
 permalink: /publication/MM-forward-bench
-excerpt: 'Work under review. Co-first author paper about creating a benchmark suite for easy benchmarking of the forward mapping of the AEM property emulator'
-date: 2021.08.21
-venue: 'Under review'
+excerpt: 'In press. Co-first author paper about creating a benchmark suite for easy benchmarking of the forward mapping of the AEM property emulator'
+date: 2021.12.09
+venue: '**NeurIPS 2021**: Advances in Neural Information Processing Systems 34'
 paperurl: 'https://openreview.net/forum?id=-or413Lh_aF'
 citation: 'Deng, Y., Dong, J., Ren, S., Khatib, O., Soltani, M., Tarokh, V., ... & Malof, J. (2021). Benchmarking Data-driven Surrogate Simulators for Artificial Electromagnetic Materials.'
 ---
